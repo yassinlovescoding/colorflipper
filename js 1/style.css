@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+#colorflipper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid color(black red green blue);
+    background-color:blanchedalmond;
+    
+}
+button{
+    height: 50px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 50px;
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
